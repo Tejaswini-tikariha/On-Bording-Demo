@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ViewPager</string>
+    <string name="skip_intro">skip-intro</string>
+    <string name="next">--></string>
+    <string name="appname">appName</string>
+    <string name="title_text">Title Text</string>
+    <string name="text_description">Text Description</string>
+</resources>
